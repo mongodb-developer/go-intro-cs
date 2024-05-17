@@ -6,11 +6,7 @@
             "type": "go",
             "request": "launch",
             "mode": "auto",
-            "program": "${fileDirname}",
-            "env": {
-                "GOPATH": "/home/vscode",
-                "GOMODCACHE": "/home/vscode/go/pkg/mod"
-            }
+            "program": "${fileDirname}"
         }
     ]
 }
